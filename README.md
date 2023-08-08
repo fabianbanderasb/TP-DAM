@@ -45,7 +45,7 @@ Si pudiste acceder al cliente web y al administrador significa que la aplicació
 
 Continuá explorando el proyecto una vez que lo tengas funcionando.
 
-### Imágenes
+## Imágenes 🖼️
 
 ```
 1
@@ -63,7 +63,8 @@ Continuá explorando el proyecto una vez que lo tengas funcionando.
 4
 ```
 ![Imagen](https://github.com/fabianbanderasb/TP-DAM/blob/main/TP-DAM-IMAGES/Mediciones.png)
-### Existen 6 endpoints:
+
+## Existen 6 endpoints:
 
 ```
 GET: http://localhost:8000/devices
@@ -93,7 +94,7 @@ GET: http://localhost:8000/devices/:idDevice/messures/
 GET: http://localhost:8000/logriegos/:electrovalvulaId
 ```
 
-### Se incorpora:
+## Se incorpora:
 
 
 * 1 directiva de atributo(highlight.directive.ts)
