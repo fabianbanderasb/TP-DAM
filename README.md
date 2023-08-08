@@ -50,19 +50,19 @@ Continuá explorando el proyecto una vez que lo tengas funcionando.
 ```
 1
 ```
-![Imagen](https://github.com/fabianbanderasb/TP-DAM/Device.png)
+![Imagen](https://github.com/fabianbanderasb/TP-DAM/blob/main/TP-DAM-IMAGES/Device.png)
 ```
 2
 ```
-![Imagen](https://github.com/fabianbanderasb/TP-DAM/Home.png)
+![Imagen](https://github.com/fabianbanderasb/TP-DAM/blob/main/TP-DAM-IMAGES/Home.png)
 ```
 3
 ```
-![Imagen](https://github.com/fabianbanderasb/TP-DAM/LOG_Riegos.png)
+![Imagen](https://github.com/fabianbanderasb/TP-DAM/blob/main/TP-DAM-IMAGES/LOG_Riegos.png)
 ```
 4
 ```
-![Imagen](https://github.com/fabianbanderasb/TP-DAM/Mediciones.png)
+![Imagen](https://github.com/fabianbanderasb/TP-DAM/blob/main/TP-DAM-IMAGES/Mediciones.png)
 ### Existen 6 endpoints:
 
 ```
