@@ -49,8 +49,10 @@ Continuá explorando el proyecto una vez que lo tengas funcionando.
 
 ```
 1
-```
+
 ![Imagen](https://github.com/fabianbanderasb/TP-DAM/blob/main/TP-DAM-IMAGES/Device.png)
+```
+
 ```
 2
 ```
